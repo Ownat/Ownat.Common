@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Common files that remove boilerplate code, thereby making development much easier" +
     ".")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.1+d3efbb3412a3878274ca21c0927aef0792c23ff4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.1+517e80584f93ce490c8927bb33137f9ecab29480")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ownat.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ownat.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.1")]

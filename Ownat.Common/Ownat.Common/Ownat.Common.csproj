@@ -15,10 +15,6 @@
         <RepositoryUrl>https://github.com/Ownat/Ownat.Common</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <PackageProjectUrl>https://github.com/Ownat/Ownat.Common</PackageProjectUrl>
-        <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <PackageLicenseFile>LICENSE</PackageLicenseFile>
-        
-        
         <AssemblyVersion>1.0.0.1</AssemblyVersion>
         <FileVersion>1.0.0.1</FileVersion>
     </PropertyGroup>
