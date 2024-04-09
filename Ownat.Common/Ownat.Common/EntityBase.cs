@@ -13,14 +13,24 @@ public class EntityBase
     public Guid Id { get; init; }
 
     /// <summary>
+    /// Gets or sets the unique identifier of the user who created the entity.
+    /// </summary>
+    public Guid CreatedBy { get; set; }
+
+    /// <summary>
     /// Gets or sets the date and time the entity was created.
     /// </summary>
     public DateTime CreatedAt { get; set; }
 
     /// <summary>
+    /// Gets or sets the unique identifier of the user who last updated the entity.
+    /// </summary>
+    public Guid LastUpdatedBy { get; set; }
+
+    /// <summary>
     /// Gets or sets the date and time the entity was last updated.
     /// </summary>
-    public DateTime UpdatedAt { get; set; }
+    public DateTime? LastUpdatedAt { get; set; }
 
     /// <summary>
     /// Holds the domain events that have occurred within the entity.
