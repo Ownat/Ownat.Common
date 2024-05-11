@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ChilufyaO\\OneDrive - Zambia Revenue Authority\\Desktop\\Ownat\\Development\\Ownat.Common\\Ownat.Common\\Ownat.Common\\Ownat.Common.csproj": {}
+    "D:\\Development\\Ownat\\Ownat.Common\\Ownat.Common\\Ownat.Common\\Ownat.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ChilufyaO\\OneDrive - Zambia Revenue Authority\\Desktop\\Ownat\\Development\\Ownat.Common\\Ownat.Common\\Ownat.Common\\Ownat.Common.csproj": {
-      "version": "1.0.0",
+    "D:\\Development\\Ownat\\Ownat.Common\\Ownat.Common\\Ownat.Common\\Ownat.Common.csproj": {
+      "version": "1.0.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ChilufyaO\\OneDrive - Zambia Revenue Authority\\Desktop\\Ownat\\Development\\Ownat.Common\\Ownat.Common\\Ownat.Common\\Ownat.Common.csproj",
+        "projectUniqueName": "D:\\Development\\Ownat\\Ownat.Common\\Ownat.Common\\Ownat.Common\\Ownat.Common.csproj",
         "projectName": "Ownat.Common",
-        "projectPath": "C:\\Users\\ChilufyaO\\OneDrive - Zambia Revenue Authority\\Desktop\\Ownat\\Development\\Ownat.Common\\Ownat.Common\\Ownat.Common\\Ownat.Common.csproj",
-        "packagesPath": "C:\\Users\\ChilufyaO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ChilufyaO\\OneDrive - Zambia Revenue Authority\\Desktop\\Ownat\\Development\\Ownat.Common\\Ownat.Common\\Ownat.Common\\obj\\",
+        "projectPath": "D:\\Development\\Ownat\\Ownat.Common\\Ownat.Common\\Ownat.Common\\Ownat.Common.csproj",
+        "packagesPath": "C:\\Users\\chilu\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Ownat\\Ownat.Common\\Ownat.Common\\Ownat.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ChilufyaO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chilu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
