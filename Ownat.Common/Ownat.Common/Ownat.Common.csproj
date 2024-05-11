@@ -6,12 +6,12 @@
         <Nullable>enable</Nullable>
         <LangVersion>12</LangVersion>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <Version>1.0.0.2</Version>
+        <Version>1.0.0.3</Version>
         <Title>Ownat.Common</Title>
         <Authors>Ownat Incorporated</Authors>
         <Description>Common files that remove boilerplate code, thereby making development much easier.</Description>
-        <AssemblyVersion>1.0.0.2</AssemblyVersion>
-        <FileVersion>1.0.0.2</FileVersion>
+        <AssemblyVersion>1.0.0.3</AssemblyVersion>
+        <FileVersion>1.0.0.3</FileVersion>
     </PropertyGroup>
 
     <ItemGroup>
